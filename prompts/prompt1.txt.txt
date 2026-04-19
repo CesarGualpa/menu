@@ -1,0 +1,1 @@
+prompt 1: Quiero que tengas el rol de un diseñador grafico y crees una interfaz visual minimalista en el apartado menu.css, este menú contendrá todos mis proyectos y agrega informacion adicional si es relevante.
